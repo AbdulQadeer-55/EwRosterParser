@@ -1,0 +1,4 @@
+echo "target/" > .gitignore
+echo ".vscode/" >> .gitignore
+echo "*.pdf" >> .gitignore
+echo "*.ics" >> .gitignore

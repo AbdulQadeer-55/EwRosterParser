@@ -1,0 +1,11 @@
+C/I;Check-in
+C/O;Check-out
+S/U;Show-up
+PICK UP;Pick Up
+OFF;Off Duty
+O_M;Off (Month)
+F;Free Day
+U;Vacation
+KCC-VAC;Sick Leave
+STBY;Standby
+STBYPOINT;Standby
